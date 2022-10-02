@@ -1,0 +1,16 @@
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\MainWindow.g.cs
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\App.g.cs
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate_MarkupCompile.cache
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate_MarkupCompile.lref
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\MainWindow.baml
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.g.resources
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\ogurt\Desktop\VisualProject\Calculate\Calculate\obj\Debug\Calculate.pdb
